@@ -1,0 +1,8 @@
+/* Write your CSS here */
+
+.message {
+    font-size: 35px;
+    font-family: "roboto";
+    font-weight: 600;
+    color: #f8fafc;
+}
